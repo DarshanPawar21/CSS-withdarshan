@@ -1,0 +1,83 @@
+
+h1 {
+/* Tipografía */
+  text-transform: uppercase;
+  text-align: left;
+
+  /* Colores y efectos */
+  color: black;}
+
+h2 {
+/* Tipografía */
+  text-transform: uppercase;
+  text-align: left;
+
+  /* Colores y efectos */
+  color: rgb(42, 185, 198);
+
+  /* Otras propiedades */
+  word-spacing: 0em;}
+
+#pawar {
+/* Tipografía */
+  font-size: 55px;}
+
+#h1 {
+/* Tipografía */
+  text-transform: none;
+}
+  i{
+    text-align: center;
+  }
+p{
+    text-align: justify;
+    font-family: Roboto;
+}
+
+#h2{
+    text-align: right;
+}
+#li1{
+    text-align: right;
+    font-family: Roboto;
+}
+#li2{
+    text-align: center;
+}
+#i1{
+    font-size: 35px;
+}
+#d1{
+    
+     text-align: right;
+
+}
+
+#mr{
+    
+    text-align: right;
+}
+#mc{
+    font-size: 35px;
+}
+#golu{
+    
+    font-family:Michroma;
+    font-size: 31px;
+}
+#mp1{
+    font-size: 75px;
+    text-align: center;
+}
+#h2r{
+    text-align: center;
+    font-size: 83px;
+}
+.pm{
+    text-align: center;
+}
+
+#gb6{
+    
+    text-align: center;  
+}
